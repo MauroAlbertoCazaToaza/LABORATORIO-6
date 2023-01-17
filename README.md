@@ -13,6 +13,10 @@ Realizar comparaciones entre los datos teóricos usando el Teorema de la Máxima
 
 Entender las conexiones y forma de uso del protoboard, del multímetro y de los demás materiales de laboratorio para hacer un uso correcto de ellos, ya que cada uno tiene una forma específica de uso.
 # 2.MARCO TEORICO
+![image](https://user-images.githubusercontent.com/116821356/212964669-96cbf328-9532-434b-82b5-398e250e3e65.png)
+
+
+# 3.EXPLICACION DEL PROCEDIMIENTO
 Necesitamos los siguientes materiales
 
 1 Fuente de Voltaje de C.D.<br>
